@@ -1,0 +1,27 @@
+{
+  "name": "3d-garden-designer",
+  "displayName": "3D Garden Designer",
+  "version": "1.0.0",
+  "description": "Design your garden or yard to scale in chat, then walk through it in 3D.",
+  "author": {
+    "name": "3D Garden Designer"
+  },
+  "license": "MIT",
+  "keywords": [
+    "garden design",
+    "landscape design",
+    "backyard design",
+    "yard plan",
+    "landscaping",
+    "garden planner",
+    "3d garden",
+    "outdoor design"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "repository": "https://github.com/ylabs-apps/3d-garden-designer-plugin",
+  "homepage": "https://3dgardendesigner.com/",
+  "privacyPolicyUrl": "https://3dgardendesigner.com/privacy",
+  "termsOfServiceUrl": "https://3dgardendesigner.com/terms",
+  "supportUrl": "https://3dgardendesigner.com/support",
+  "documentationUrl": "https://3dgardendesigner.com/docs"
+}
