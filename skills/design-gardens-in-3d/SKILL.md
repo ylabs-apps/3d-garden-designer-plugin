@@ -1,6 +1,6 @@
 ---
 name: design-gardens-in-3d
-description: Design a garden, backyard or landscape to scale and view it in 3D. Use when the user wants to plan or redesign their garden or yard, lay out lawn, patio, paths, beds, trees, hedges or a pool, make a landscape plan, or see their outdoor space in 3D.
+description: Design gardens, backyards and landscapes to scale and view them in 3D. Use whenever the user wants to plan, design or redesign a garden, backyard, front yard or outdoor space, lay out a lawn, patio, deck, paths, flower beds, trees, hedges, a pool or a pergola, make a landscaping plan, or see how their garden will look in 3D before building it.
 ---
 
 # Design gardens in 3D

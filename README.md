@@ -1,6 +1,6 @@
-# 3D Garden Designer
+# 3D Garden Designer — Landscape Planning
 
-Design your garden or yard to scale in chat, then walk through it in 3D.
+Design your garden or backyard to scale in chat, then walk through it in 3D. Lay out lawn, patio, paths, flower beds, trees, hedges and features like a pool or pergola, and change anything by asking.
 
 ## Use it
 

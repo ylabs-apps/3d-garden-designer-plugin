@@ -1,8 +1,8 @@
 {
   "name": "3d-garden-designer",
-  "displayName": "3D Garden Designer",
+  "displayName": "3D Garden Designer — Landscape Planning",
   "version": "1.0.0",
-  "description": "Design your garden or yard to scale in chat, then walk through it in 3D.",
+  "description": "Design your garden or backyard to scale in chat, then walk through it in 3D. Lay out lawn, patio, paths, flower beds, trees, hedges and features like a pool or pergola, and change anything by asking.",
   "author": {
     "name": "3D Garden Designer"
   },
@@ -11,11 +11,15 @@
     "garden design",
     "landscape design",
     "backyard design",
-    "yard plan",
-    "landscaping",
     "garden planner",
+    "landscaping",
+    "yard design",
+    "patio",
+    "garden layout",
     "3d garden",
-    "outdoor design"
+    "outdoor design",
+    "pool design",
+    "landscape plan"
   ],
   "icon": ".claude-plugin/icon.png",
   "repository": "https://github.com/ylabs-apps/3d-garden-designer-plugin",
